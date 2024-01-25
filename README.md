@@ -11,4 +11,4 @@
 
 ## Contacts
 - LinkedIn: [@azizapray](https://www.linkedin.com/in/azizapray/)
-- E-mail: [azizdharmawanapray@gmail.com](azizdharmawanapray@gmail.com)
+- E-mail: [azizdharmawanapray@gmail.com](to:azizdharmawanapray@gmail.com)
