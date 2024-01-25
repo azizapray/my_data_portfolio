@@ -10,3 +10,4 @@
 ## Certificates
 
 ## Contacts
+LinkedIn: @azizapray(https://www.linkedin.com/in/azizapray/)
