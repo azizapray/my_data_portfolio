@@ -10,5 +10,5 @@
 ## Certificates
 
 ## Contacts
-LinkedIn: [@azizapray](https://www.linkedin.com/in/azizapray/)
-E-mail: [azizdharmawanapray@gmail.com](azizdharmawanapray@gmail.com)
+- LinkedIn: [@azizapray](https://www.linkedin.com/in/azizapray/)
+- E-mail: [azizdharmawanapray@gmail.com](azizdharmawanapray@gmail.com)
